@@ -1,0 +1,12 @@
+2026-10-29 18:34:04 - Added student: {'name': 'urvashi', 'department': 'CSE', 'marks': {'python': '70', 'maths': '91', 'DS': '84'}} - Ayush
+2026-10-29 18:34:22 - Searched for student ID: S101
+2026-10-29 18:34:31 - Searched for student ID: S101
+2026-10-29 18:34:43 - Viewed all students
+2026-10-29 18:50:30 - Exported student records to CSV
+2026-10-29 18:53:05 - Exported student records to CSV
+2026-10-29 19:02:44 - Exported student records to CSV
+2026-10-29 19:08:03 - Exported student records to CSV
+2026-10-29 19:08:43 - Viewed activity log
+2026-10-29 19:09:08 - Viewed all students
+2026-10-29 19:15:53 - Viewed all students
+2026-10-29 19:15:58 - Viewed activity log
